@@ -1,0 +1,1246 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/9fa90aa8-3a25-5284-84d4-b07fad97d038",
+      "url": "https://www.nytimes.com/2020/12/04/opinion/sunday/pornhub-rape-trafficking.html",
+      "id": 100000007479053,
+      "asset_id": 100000007479053,
+      "source": "New York Times",
+      "published_date": "2020-12-04",
+      "updated": "2020-12-10 13:08:44",
+      "section": "Opinion",
+      "subsection": "Sunday Review",
+      "nytdsection": "opinion",
+      "adx_keywords": "Child Abuse and Neglect;Sex Crimes;Child Pornography;Video Recordings, Downloads and Streaming;Computers and the Internet;Women and Girls;Pornography;Human Trafficking;Regulation and Deregulation of Industry;Pornhub;MindGeek Sarl;Canada",
+      "column": null,
+      "byline": "By Nicholas Kristof",
+      "type": "Article",
+      "title": "The Children of Pornhub",
+      "abstract": "Why does Canada allow this company to profit off videos of exploitation and assault?",
+      "des_facet": [
+        "Child Abuse and Neglect",
+        "Sex Crimes",
+        "Child Pornography",
+        "Video Recordings, Downloads and Streaming",
+        "Computers and the Internet",
+        "Women and Girls",
+        "Pornography",
+        "Human Trafficking",
+        "Regulation and Deregulation of Industry"
+      ],
+      "org_facet": [
+        "Pornhub",
+        "MindGeek Sarl"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Canada"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Serena K. Fleites, 19, was 14 when a boy she had a crush on asked her to make a naked video and send it to him. She did, and it ended up on Pornhub.",
+          "copyright": "Rachel Bujalski for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/opinion/04kristof-2-R/04kristof-2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/opinion/04kristof-2-R/04kristof-2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/opinion/04kristof-2-R/04kristof-2-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9c192188-bc58-5a8b-9022-11b989ec2b68",
+      "url": "https://www.nytimes.com/2020/12/07/us/trump-covid-vaccine-pfizer.html",
+      "id": 100000007491128,
+      "asset_id": 100000007491128,
+      "source": "New York Times",
+      "published_date": "2020-12-07",
+      "updated": "2020-12-09 15:14:14",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "internal-essential",
+      "column": null,
+      "byline": "By Sharon LaFraniere, Katie Thomas and Noah Weiland",
+      "type": "Article",
+      "title": "Trump administration officials passed when Pfizer offered months ago to sell the U.S. more vaccine doses.",
+      "abstract": "",
+      "des_facet": [
+        "internal-essential"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Trump administration is said to have turned down an offer from Pfizer to purchase additional doses of its vaccine. ",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/07/world/07virus-briefing-trump-vaccine-priority/07virus-briefing-trump-vaccine-priority-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/07/world/07virus-briefing-trump-vaccine-priority/07virus-briefing-trump-vaccine-priority-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/07/world/07virus-briefing-trump-vaccine-priority/07virus-briefing-trump-vaccine-priority-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/563c9a6e-5101-5499-89fb-2d49211ab486",
+      "url": "https://www.nytimes.com/2020/12/05/us/politics/trump-presidency-election-loss.html",
+      "id": 100000007485517,
+      "asset_id": 100000007485517,
+      "source": "New York Times",
+      "published_date": "2020-12-05",
+      "updated": "2020-12-07 17:31:12",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2020;United States Politics and Government;Voter Fraud (Election Fraud);Trump, Donald J;Biden, Joseph R Jr;Republican Party",
+      "column": null,
+      "byline": "By Peter Baker",
+      "type": "Article",
+      "title": "Trump’s Final Days of Rage and Denial",
+      "abstract": "The last act of the Trump presidency has taken on the stormy elements of a drama more common to history or literature than a modern White House.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "United States Politics and Government",
+        "Voter Fraud (Election Fraud)"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump in the Oval Office on Thursday. He has continued to denounce the results of the election.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/us/politics/06dc-president-print1/05dc-president-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/us/politics/06dc-president-print1/merlin_180770211_9390c8cc-2ade-47dd-abc5-2a4309485649-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/us/politics/06dc-president-print1/merlin_180770211_9390c8cc-2ade-47dd-abc5-2a4309485649-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/6104cdd0-20e4-5e5d-b79c-b07c0dc70f22",
+      "url": "https://www.nytimes.com/2020/12/06/world/rudy-giuliani-covid.html",
+      "id": 100000007489323,
+      "asset_id": 100000007489323,
+      "source": "New York Times",
+      "published_date": "2020-12-06",
+      "updated": "2020-12-07 17:12:43",
+      "section": "World",
+      "subsection": "",
+      "nytdsection": "world",
+      "adx_keywords": "internal-essential",
+      "column": null,
+      "byline": "By Maggie Haberman",
+      "type": "Article",
+      "title": "Giuliani has tested positive for the coronavirus, Trump says.",
+      "abstract": "",
+      "des_facet": [
+        "internal-essential"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rudolph W. Giuliani, at age 76, is in the high-risk category for the virus.",
+          "copyright": "Erin Schaff/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/06/world/06virus-briefing-giuliani/06virus-briefing-giuliani-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/06/world/06virus-briefing-giuliani/merlin_180210657_045c62c5-d398-4bfc-8bac-cf14ed7172ea-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/06/world/06virus-briefing-giuliani/merlin_180210657_045c62c5-d398-4bfc-8bac-cf14ed7172ea-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/0fa6e451-17e3-54e9-af6c-36831916ec5a",
+      "url": "https://www.nytimes.com/2020/12/04/upshot/epidemiologists-virus-survey-.html",
+      "id": 100000007483853,
+      "asset_id": 100000007483853,
+      "source": "New York Times",
+      "published_date": "2020-12-04",
+      "updated": "2020-12-08 17:15:55",
+      "section": "The Upshot",
+      "subsection": "",
+      "nytdsection": "the upshot",
+      "adx_keywords": "Coronavirus (2019-nCoV);Coronavirus Risks and Safety Concerns;Quarantine (Life and Culture);Vaccination and Immunization;Content Type: Service;United States",
+      "column": null,
+      "byline": "By Margot Sanger-Katz, Claire Cain Miller and Quoctrung Bui",
+      "type": "Article",
+      "title": "How 700 Epidemiologists Are Living Now, and What They Think Is Next",
+      "abstract": "They are going to the grocery store again, but don’t see vaccines making life normal right away.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Coronavirus Risks and Safety Concerns",
+        "Quarantine (Life and Culture)",
+        "Vaccination and Immunization",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Under elevated subway tracks in Brooklyn in April. The pandemic has been a long slog, and experts don’t see a quick end to it, despite optimism about vaccines.",
+          "copyright": "Mark Lennihan/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/04/upshot/04up-epidemiologists/04up-epidemiologists-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/04/upshot/04up-epidemiologists/04up-epidemiologists-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/04/upshot/04up-epidemiologists/04up-epidemiologists-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/961c46c7-cfb3-56aa-9cdc-c2f0695f7f47",
+      "url": "https://www.nytimes.com/2020/12/05/health/covid-natural-immunity.html",
+      "id": 100000007483149,
+      "asset_id": 100000007483149,
+      "source": "New York Times",
+      "published_date": "2020-12-05",
+      "updated": "2020-12-09 14:04:57",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "your-feed-science;Vaccination and Immunization;Content Type: Service;Immune System;Coronavirus Risks and Safety Concerns;Coronavirus (2019-nCoV)",
+      "column": null,
+      "byline": "By Apoorva Mandavilli",
+      "type": "Article",
+      "title": "‘Natural Immunity’ From Covid Is Not Safer Than a Vaccine",
+      "abstract": "What if you’ve already had Covid-19 — do you still need a vaccine? Experts tackle questions about vaccine immunity.",
+      "des_facet": [
+        "your-feed-science",
+        "Vaccination and Immunization",
+        "Content Type: Service",
+        "Immune System",
+        "Coronavirus Risks and Safety Concerns",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Although researchers aren’t sure whether a vaccine or the infection itself produces the stronger immune response, one thing is clear: The vaccine is far safer.",
+          "copyright": "Marco Bello/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/05/science/05VIRUS-IMMUNITY/05VIRUS-IMMUNITY-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/05/science/05VIRUS-IMMUNITY/05VIRUS-IMMUNITY-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/05/science/05VIRUS-IMMUNITY/05VIRUS-IMMUNITY-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/1d54df6e-48b2-5c26-922e-e6b19696a13b",
+      "url": "https://www.nytimes.com/2020/12/06/us/politics/xavier-becerra-hhs-health-secretary.html",
+      "id": 100000007489356,
+      "asset_id": 100000007489356,
+      "source": "New York Times",
+      "published_date": "2020-12-06",
+      "updated": "2020-12-08 07:14:09",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Transition (US);United States Politics and Government;Hispanic-Americans;Patient Protection and Affordable Care Act (2010);Appointments and Executive Changes;Becerra, Xavier;Biden, Joseph R Jr;Grisham, Michelle Lujan;Health and Human Services Department;California",
+      "column": null,
+      "byline": "By Sheryl Gay Stolberg and Michael D. Shear",
+      "type": "Article",
+      "title": "Biden Picks Xavier Becerra to Lead Health and Human Services",
+      "abstract": "The selection of Mr. Becerra, the California attorney general, is a surprise. If confirmed, he will face a daunting challenge in leading the department at a critical moment in the pandemic.",
+      "des_facet": [
+        "Presidential Transition (US)",
+        "United States Politics and Government",
+        "Hispanic-Americans",
+        "Patient Protection and Affordable Care Act (2010)",
+        "Appointments and Executive Changes"
+      ],
+      "org_facet": [
+        "Health and Human Services Department"
+      ],
+      "per_facet": [
+        "Becerra, Xavier",
+        "Biden, Joseph R Jr",
+        "Grisham, Michelle Lujan"
+      ],
+      "geo_facet": [
+        "California"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Xavier Becerra served 12 terms in Congress, representing Los Angeles, before becoming the attorney general of California in 2017.",
+          "copyright": "Rich Pedroncelli/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/us/politics/06DC-BIDEN-CABINET/06DC-BIDEN-CABINET-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/us/politics/06DC-BIDEN-CABINET/06DC-BIDEN-CABINET-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/us/politics/06DC-BIDEN-CABINET/06DC-BIDEN-CABINET-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5248fea5-88e0-5544-a72b-77fdd3064e78",
+      "url": "https://www.nytimes.com/2020/12/01/us/politics/rudy-giuliani-pardon.html",
+      "id": 100000007480846,
+      "asset_id": 100000007480846,
+      "source": "New York Times",
+      "published_date": "2020-12-01",
+      "updated": "2020-12-04 09:35:40",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Amnesties, Commutations and Pardons;Presidential Election of 2020;Trump-Ukraine Whistle-Blower Complaint and Impeachment Inquiry;Russian Interference in 2016 US Elections and Ties to Trump Associates;United States Politics and Government;Presidents and Presidency (US);Giuliani, Rudolph W;Trump, Donald J;Trump, Ivanka;Trump, Donald J Jr;Trump, Eric F (1984- )",
+      "column": null,
+      "byline": "By Maggie Haberman and Michael S. Schmidt",
+      "type": "Article",
+      "title": "Trump Has Discussed With Advisers Pardons for His 3 Eldest Children and Giuliani",
+      "abstract": "Rudolph W. Giuliani, who is promoting baseless claims of widespread election fraud, talked about a pardon with President Trump as recently as last week.",
+      "des_facet": [
+        "Amnesties, Commutations and Pardons",
+        "Presidential Election of 2020",
+        "Trump-Ukraine Whistle-Blower Complaint and Impeachment Inquiry",
+        "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+        "United States Politics and Government",
+        "Presidents and Presidency (US)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Giuliani, Rudolph W",
+        "Trump, Donald J",
+        "Trump, Ivanka",
+        "Trump, Donald J Jr",
+        "Trump, Eric F (1984- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A pardon for Rudolph W. Giuliani, President Trump’s lawyer, is certain to prompt accusations that Mr. Trump has used his power to obstruct investigations and insulate himself and his allies. ",
+          "copyright": "Erin Schaff/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/01/us/politics/01transition-briefing-rudy-giuliani-pardon1/01transition-briefing-rudy-giuliani-pardon1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/01/us/politics/01transition-briefing-rudy-giuliani-pardon1/01transition-briefing-rudy-giuliani-pardon1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/01/us/politics/01transition-briefing-rudy-giuliani-pardon1/01transition-briefing-rudy-giuliani-pardon1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/633aa1c3-94b0-5c95-ab3b-30ea27dcbf38",
+      "url": "https://www.nytimes.com/2020/12/03/us/california-stay-at-home-order.html",
+      "id": 100000007485154,
+      "asset_id": 100000007485154,
+      "source": "New York Times",
+      "published_date": "2020-12-03",
+      "updated": "2020-12-09 14:49:40",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Coronavirus (2019-nCoV);Shutdowns (Institutional);Disease Rates;Quarantines;Newsom, Gavin;California",
+      "column": null,
+      "byline": "By Jill Cowan, Jack Healy and Thomas Fuller",
+      "type": "Article",
+      "title": "California Will Impose Its Strongest Virus Measures Since the Spring",
+      "abstract": "Millions of people across Southern and Central California are likely to see outdoor dining shuttered, playgrounds roped off and hair salons closed within days.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Shutdowns (Institutional)",
+        "Disease Rates",
+        "Quarantines"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Newsom, Gavin"
+      ],
+      "geo_facet": [
+        "California"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "New restrictions announced by Gov. Gavin Newsom of California on Thursday will begin in regions once the available intensive-care capacity there dips below a 15 percent threshold.",
+          "copyright": "John Taggart for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/03/us/03virus-enforcement/03virus-enforcement-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/03/us/03virus-enforcement/03virus-enforcement-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/03/us/03virus-enforcement/03virus-enforcement-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9bc3a62a-d319-5f4e-8bd0-700aa3c48d48",
+      "url": "https://www.nytimes.com/2020/12/05/us/carl-lentz-hillsong-pastor.html",
+      "id": 100000007483595,
+      "asset_id": 100000007483595,
+      "source": "New York Times",
+      "published_date": "2020-12-05",
+      "updated": "2020-12-06 21:09:21",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Ministers (Protestant);Celebrities;Christians and Christianity;Content Type: Personal Profile;Houston, Brian (1954- );Lentz, Carl (1979- );Bieber, Justin;Hillsong Church;New York City",
+      "column": null,
+      "byline": "By Ruth Graham",
+      "type": "Article",
+      "title": "The Rise and Fall of Carl Lentz, the Celebrity Pastor of Hillsong Church",
+      "abstract": "A charismatic pastor helped build a megachurch favored by star athletes and entertainers — until some temptations became too much to resist.",
+      "des_facet": [
+        "Ministers (Protestant)",
+        "Celebrities",
+        "Christians and Christianity",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [
+        "Hillsong Church"
+      ],
+      "per_facet": [
+        "Houston, Brian (1954- )",
+        "Lentz, Carl (1979- )",
+        "Bieber, Justin"
+      ],
+      "geo_facet": [
+        "New York City"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Carl Lentz, speaking at Hillsong NYC, became not just a friend to celebrities but a celebrity himself.",
+          "copyright": "Andrew White for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/05/us/05hillsong/05hillsong-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/05/us/05hillsong/05hillsong-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/05/us/05hillsong/05hillsong-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/814b3964-518b-55b9-bf14-e322d914bf74",
+      "url": "https://www.nytimes.com/2020/12/08/us/supreme-court-republican-challenge-pennsylvania-vote.html",
+      "id": 100000007492633,
+      "asset_id": 100000007492633,
+      "source": "New York Times",
+      "published_date": "2020-12-08",
+      "updated": "2020-12-09 12:52:24",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2020;Absentee Voting;Voter Fraud (Election Fraud);United States Politics and Government;Kelly, Mike (1948- );Trump, Donald J;Supreme Court (US);Republican Party;Pennsylvania",
+      "column": null,
+      "byline": "By Adam Liptak",
+      "type": "Article",
+      "title": "Supreme Court Rejects Republican Challenge to Pennsylvania Vote",
+      "abstract": "In a one-sentence order, the court refused to overturn election results that had already been certified and submitted.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Absentee Voting",
+        "Voter Fraud (Election Fraud)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Supreme Court (US)",
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Kelly, Mike (1948- )",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Pennsylvania"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A “Stop the Steal” rally on Tuesday outside the Supreme Court.",
+          "copyright": "Anna Moneymaker for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/08/us/politics/08dc-scotus-kelly/merlin_180995961_b35eeea6-7478-4967-a653-78350359364c-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/08/us/politics/08dc-scotus-kelly/merlin_180995961_b35eeea6-7478-4967-a653-78350359364c-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/08/us/politics/08dc-scotus-kelly/merlin_180995961_b35eeea6-7478-4967-a653-78350359364c-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2068d391-5ef8-50a7-9c84-e2671adeebfa",
+      "url": "https://www.nytimes.com/2020/12/02/business/japan-old-companies.html",
+      "id": 100000007411348,
+      "asset_id": 100000007411348,
+      "source": "New York Times",
+      "published_date": "2020-12-02",
+      "updated": "2020-12-04 22:28:28",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Family Business;Shopping and Retail;Rice;Ichiwa (Kyoto, Japan, Retailer);Tanaka Iga Butsugu (Kyoto, Japan, Retailer);Japan;Kyoto (Japan)",
+      "column": null,
+      "byline": "By Ben Dooley and Hisako Ueno",
+      "type": "Article",
+      "title": "This Japanese Shop Is 1,020 Years Old. It Knows a Bit About Surviving Crises.",
+      "abstract": "A mochi seller in Kyoto, and many of Japan’s other centuries-old businesses, have endured by putting tradition and stability over profit and growth.",
+      "des_facet": [
+        "Family Business",
+        "Shopping and Retail",
+        "Rice"
+      ],
+      "org_facet": [
+        "Ichiwa (Kyoto, Japan, Retailer)",
+        "Tanaka Iga Butsugu (Kyoto, Japan, Retailer)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Japan",
+        "Kyoto (Japan)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ichiwa has been selling grilled rice flour cakes to travelers in Kyoto, Japan, for a thousand years.",
+          "copyright": "Hiroko Masuike/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/11/03/world/00JAPAN-OLDCOS1/00JAPAN-OLDCOS1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/03/world/00JAPAN-OLDCOS1/00JAPAN-OLDCOS1-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/03/world/00JAPAN-OLDCOS1/00JAPAN-OLDCOS1-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9fae63a6-46e6-5627-980a-91d0ade9bc12",
+      "url": "https://www.nytimes.com/2020/12/08/technology/trump-family-impersonator.html",
+      "id": 100000007483233,
+      "asset_id": 100000007483233,
+      "source": "New York Times",
+      "published_date": "2020-12-08",
+      "updated": "2020-12-09 15:19:19",
+      "section": "Technology",
+      "subsection": "",
+      "nytdsection": "technology",
+      "adx_keywords": "United States Politics and Government;Rumors and Misinformation;Frauds and Swindling;Conspiracy Theories;Hoaxes and Pranks;Social Media;Content Type: Personal Profile;Hall, Josh (1999- );Trump, Donald J;Twitter;GoFundMe",
+      "column": null,
+      "byline": "By Jack Nicas",
+      "type": "Article",
+      "title": "He Pretended to Be Trump’s Family. Then Trump Fell for It.",
+      "abstract": "For months, a 21-year-old Trump supporter impersonated Trump family members on Twitter, spreading conspiracy theories, asking for money and eventually drawing the attention of the president.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Rumors and Misinformation",
+        "Frauds and Swindling",
+        "Conspiracy Theories",
+        "Hoaxes and Pranks",
+        "Social Media",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [
+        "Twitter",
+        "GoFundMe"
+      ],
+      "per_facet": [
+        "Hall, Josh (1999- )",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Raphaelle Macaron",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/07/business/00FAKETRUMPS/00FAKETRUMPS-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/07/business/00FAKETRUMPS/00FAKETRUMPS-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/07/business/00FAKETRUMPS/00FAKETRUMPS-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/dc6a00f5-024c-58b0-80c0-946adabddeb9",
+      "url": "https://www.nytimes.com/2020/12/03/science/tennessee-embryo-donate.html",
+      "id": 100000007484804,
+      "asset_id": 100000007484804,
+      "source": "New York Times",
+      "published_date": "2020-12-03",
+      "updated": "2020-12-09 07:39:09",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "In Vitro Fertilization;Babies and Infants;Parenting;Pregnancy and Childbirth;Records and Achievements;University of Tennessee;Tennessee",
+      "column": null,
+      "byline": "By Maria Cramer",
+      "type": "Article",
+      "title": "Girl Is Born in Tennessee From Embryo Frozen for 27 Years",
+      "abstract": "The birth of Molly Gibson using an embryo from 1992 broke a record set by her sister, Emma, in 2017. The embryos were donated when the girls’ mother was herself a toddler.",
+      "des_facet": [
+        "In Vitro Fertilization",
+        "Babies and Infants",
+        "Parenting",
+        "Pregnancy and Childbirth",
+        "Records and Achievements"
+      ],
+      "org_facet": [
+        "University of Tennessee"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Tennessee"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Molly Everette Gibson, the daughter of Tina and Ben Gibson, was born Oct. 26. Her mother gave birth to her after an embryo that had been frozen for more than 27 years was implanted. ",
+          "copyright": "Haleigh Crabtree Photography",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/03/multimedia/03xp-embryo-image1/03xp-embryo-image1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/03/multimedia/03xp-embryo-image1/03xp-embryo-image1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/03/multimedia/03xp-embryo-image1/03xp-embryo-image1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/92de0619-ac91-570b-8925-20faf6c2a3ed",
+      "url": "https://www.nytimes.com/2020/12/06/us/politics/anti-vax-scientist-senate-hearing.html",
+      "id": 100000007489520,
+      "asset_id": 100000007489520,
+      "source": "New York Times",
+      "published_date": "2020-12-06",
+      "updated": "2020-12-07 13:11:29",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Vaccination and Immunization;Coronavirus (2019-nCoV);Hydroxychloroquine (Drug);United States Politics and Government;Orient, Jane M;Senate Committee on Homeland Security and Governmental Affairs;Assn of American Physicians and Surgeons",
+      "column": null,
+      "byline": "By Sheryl Gay Stolberg",
+      "type": "Article",
+      "title": "Anti-Vaccine Doctor Has Been Invited to Testify Before Senate Committee",
+      "abstract": "The selection of Dr. Jane M. Orient as federal health officials are trying to promote a vaccine to end the coronavirus pandemic prompted harsh criticism from Senator Chuck Schumer, Democrat of New York.",
+      "des_facet": [
+        "Vaccination and Immunization",
+        "Coronavirus (2019-nCoV)",
+        "Hydroxychloroquine (Drug)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Senate Committee on Homeland Security and Governmental Affairs",
+        "Assn of American Physicians and Surgeons"
+      ],
+      "per_facet": [
+        "Orient, Jane M"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Jane M. Orient is the executive director of the Association of American Physicians and Surgeons, a group that opposes government involvement in medicine.",
+          "copyright": "Scott Schauer",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/us/politics/06virus-briefing-orient2/06virus-briefing-orient2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/us/politics/06virus-briefing-orient2/06virus-briefing-orient2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/us/politics/06virus-briefing-orient2/06virus-briefing-orient2-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/443c2e2b-16af-5e52-a3ce-c7f6ead247c4",
+      "url": "https://www.nytimes.com/2020/12/07/arts/music/bob-dylan-universal-music.html",
+      "id": 100000007489406,
+      "asset_id": 100000007489406,
+      "source": "New York Times",
+      "published_date": "2020-12-07",
+      "updated": "2020-12-09 16:37:50",
+      "section": "Arts",
+      "subsection": "Music",
+      "nytdsection": "arts",
+      "adx_keywords": "Pop and Rock Music;Mergers, Acquisitions and Divestitures;Copyrights and Copyright Violations;Dylan, Bob;Universal Music Publishing Group;Universal Music Group",
+      "column": null,
+      "byline": "By Ben Sisario",
+      "type": "Article",
+      "title": "Bob Dylan Sells His Songwriting Catalog in Blockbuster Deal",
+      "abstract": "Universal Music purchased his entire songwriting catalog of more than 600 songs in what may be the biggest acquisition ever of a single act’s publishing rights.",
+      "des_facet": [
+        "Pop and Rock Music",
+        "Mergers, Acquisitions and Divestitures",
+        "Copyrights and Copyright Violations"
+      ],
+      "org_facet": [
+        "Universal Music Publishing Group",
+        "Universal Music Group"
+      ],
+      "per_facet": [
+        "Dylan, Bob"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Universal Music purchased Bob Dylan’s songwriting catalog, including classics like “Blowin’ in the Wind,” “The Times They Are A-Changin’” and “Like a Rolling Stone.”",
+          "copyright": "Chris Pizzello/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/07/arts/07pubdeal/07pubdeal-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/07/arts/07pubdeal/07pubdeal-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/07/arts/07pubdeal/07pubdeal-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9ff93ebf-0e59-5cec-ae90-51233633d2e7",
+      "url": "https://www.nytimes.com/2020/12/05/health/coronavirus-swiss-cheese-infection-mackay.html",
+      "id": 100000007481036,
+      "asset_id": 100000007481036,
+      "source": "New York Times",
+      "published_date": "2020-12-05",
+      "updated": "2020-12-08 18:31:29",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "your-feed-science;Coronavirus Risks and Safety Concerns;Coronavirus (2019-nCoV);Hygiene and Cleanliness;Vaccination and Immunization;Infections;your-feed-health",
+      "column": null,
+      "byline": "By Siobhan Roberts",
+      "type": "Article",
+      "title": "The Swiss Cheese Model of Pandemic Defense",
+      "abstract": "It’s not edible, but it can save lives. The virologist Ian Mackay explains how.",
+      "des_facet": [
+        "your-feed-science",
+        "Coronavirus Risks and Safety Concerns",
+        "Coronavirus (2019-nCoV)",
+        "Hygiene and Cleanliness",
+        "Vaccination and Immunization",
+        "Infections",
+        "your-feed-health"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "NA",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/08/science/08SCI-cheese-graphic-REV2/08SCI-cheese-graphic-REV2-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/08/science/08SCI-cheese-graphic-REV2/08SCI-cheese-graphic-REV2-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/08/science/08SCI-cheese-graphic-REV2/08SCI-cheese-graphic-REV2-mediumThreeByTwo440.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/4f384e9a-afb1-5b19-ab22-c21d5b3a061f",
+      "url": "https://www.nytimes.com/2020/12/04/us/daca-reinstated.html",
+      "id": 100000007487974,
+      "asset_id": 100000007487974,
+      "source": "New York Times",
+      "published_date": "2020-12-04",
+      "updated": "2020-12-05 17:00:36",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Deferred Action for Childhood Arrivals;Immigration and Emigration;Illegal Immigration;Deportation;Garaufis, Nicholas G;Trump, Donald J",
+      "column": null,
+      "byline": "By Caitlin Dickerson and Michael D. Shear",
+      "type": "Article",
+      "title": "Judge Orders Government to Fully Reinstate DACA Program",
+      "abstract": "Up to 300,000 additional undocumented immigrants could be allowed to apply for protection from deportation under a new court ruling. President Trump had sought to cancel the program.",
+      "des_facet": [
+        "Deferred Action for Childhood Arrivals",
+        "Immigration and Emigration",
+        "Illegal Immigration",
+        "Deportation"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Garaufis, Nicholas G",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A June demonstration in San Diego in support of beneficiaries of the Deferred Action for Childhood Arrivals program.",
+          "copyright": "Sandy Huffaker/Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/04/us/politics/04dc-daca/merlin_173686869_265122df-e238-4461-9336-e579fb59dc27-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/04/us/politics/04dc-daca/merlin_173686869_265122df-e238-4461-9336-e579fb59dc27-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/04/us/politics/04dc-daca/merlin_173686869_265122df-e238-4461-9336-e579fb59dc27-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/dd4db942-480a-52b4-8947-5f3110d69f24",
+      "url": "https://www.nytimes.com/2020/12/08/technology/fireeye-hacked-russians.html",
+      "id": 100000007493081,
+      "asset_id": 100000007493081,
+      "source": "New York Times",
+      "published_date": "2020-12-08",
+      "updated": "2020-12-09 12:44:36",
+      "section": "Technology",
+      "subsection": "",
+      "nytdsection": "technology",
+      "adx_keywords": "Cyberwarfare and Defense;Cyberattacks and Hackers;Computer Security;Espionage and Intelligence Services;Computers and the Internet;FireEye Inc;Federal Bureau of Investigation;National Security Agency;Russia",
+      "column": null,
+      "byline": "By David E. Sanger and Nicole Perlroth",
+      "type": "Article",
+      "title": "FireEye, a Top Cybersecurity Firm, Says It Was Hacked by a Nation-State",
+      "abstract": "The Silicon Valley company said hackers — almost certainly Russian — made off with tools that could be used to mount new attacks around the world.",
+      "des_facet": [
+        "Cyberwarfare and Defense",
+        "Cyberattacks and Hackers",
+        "Computer Security",
+        "Espionage and Intelligence Services",
+        "Computers and the Internet"
+      ],
+      "org_facet": [
+        "FireEye Inc",
+        "Federal Bureau of Investigation",
+        "National Security Agency"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Russia"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "FireEye’s clients after huge breaches have included Sony and Equifax. Hackers targeted its “Red Team” tools.",
+          "copyright": "David Becker/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/09/business/08JPfireeye1-print/08fireeye-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/09/business/08JPfireeye1-print/08JPfireeye1-print-mediumThreeByTwo210-v4.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/09/business/08JPfireeye1-print/08JPfireeye1-print-mediumThreeByTwo440-v4.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/4629cd41-7dad-5952-85b1-93eb2746ce0d",
+      "url": "https://www.nytimes.com/2020/11/30/travel/ghosts-of-segregation.html",
+      "id": 100000007390794,
+      "asset_id": 100000007390794,
+      "source": "New York Times",
+      "published_date": "2020-11-30",
+      "updated": "2020-12-02 22:28:25",
+      "section": "Travel",
+      "subsection": "",
+      "nytdsection": "travel",
+      "adx_keywords": "Race and Ethnicity;Photography;Segregation and Desegregation;Civil Rights Movement (1954-68);Black People;United States;Mississippi;New Orleans (La);Seattle (Wash);Alabama;Michigan",
+      "column": null,
+      "byline": "By Richard Frishman",
+      "type": "Article",
+      "title": "Hidden in Plain Sight: The Ghosts of Segregation",
+      "abstract": "Vestiges of racism and oppression, from bricked-over segregated entrances to the forgotten sites of racial violence, still permeate much of America’s built environment.",
+      "des_facet": [
+        "Race and Ethnicity",
+        "Photography",
+        "Segregation and Desegregation",
+        "Civil Rights Movement (1954-68)",
+        "Black People"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "United States",
+        "Mississippi",
+        "New Orleans (La)",
+        "Seattle (Wash)",
+        "Alabama",
+        "Michigan"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "This restaurant in Meadville, Miss., was the last place Charles Eddie Moore and Henry Hezekiah Dee were seen alive. The two Black men, both 19, were abducted by Ku Klux Klan members, tortured and drowned in the Mississippi River in 1964.",
+          "copyright": "Richard Frishman",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/11/30/travel/30travel-segregation-promo/merlin_177996393_e333244d-8877-4054-9442-91f5c06b5d48-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/30/travel/30travel-segregation-promo/30travel-segregation-promo-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/11/30/travel/30travel-segregation-promo/30travel-segregation-promo-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}

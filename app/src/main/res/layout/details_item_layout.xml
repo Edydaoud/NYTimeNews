@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/margin_16">
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/newsDetailsIv"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/newsDetailsSectionTv"
+        style="@style/TextAppearance.AppCompat.Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_8"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/newsDetailsIv"
+        tools:text="New York Times" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/newsDetailsTitleTv"
+        style="@style/TextAppearance.AppCompat.Title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_8"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/newsDetailsSectionTv"
+        tools:text="Trump’s Final Days of Rage and Denial" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/newsDetailsAbstractTv"
+        style="@style/TextAppearance.AppCompat.Caption"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_8"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/newsDetailsTitleTv"
+        tools:text="Trump’s Final Days of Rage and Denial" />
+
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/newsDetailsDateTv"
+        style="@style/TextAppearance.AppCompat.Caption"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/margin_8"
+        app:layout_constraintBottom_toBottomOf="@+id/moreActionsIv"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/moreActionsIv"
+        tools:text="1 hour ago" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/newsDetailsSeparatorTv"
+        style="@style/TextAppearance.AppCompat.Caption"
+        android:layout_width="8dp"
+        android:layout_height="wrap_content"
+        android:text="@string/text_separator"
+        android:layout_margin="@dimen/margin_4"
+        app:layout_constraintBottom_toBottomOf="@+id/newsDetailsDateTv"
+        app:layout_constraintStart_toEndOf="@id/newsDetailsDateTv"
+        app:layout_constraintTop_toTopOf="@+id/newsDetailsDateTv" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/newsDetailsAuthorTv"
+        style="@style/TextAppearance.AppCompat.Caption"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/margin_8"
+        android:ellipsize="end"
+        android:maxLines="1"
+        app:layout_constraintBottom_toBottomOf="@+id/moreActionsIv"
+        app:layout_constraintEnd_toStartOf="@+id/moreActionsIv"
+        app:layout_constraintStart_toEndOf="@id/newsDetailsSeparatorTv"
+        app:layout_constraintTop_toTopOf="@+id/moreActionsIv"
+        tools:text="By Lorem Epsum" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/moreActionsIv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_8"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/newsDetailsAbstractTv"
+        app:srcCompat="@drawable/ic_baseline_more_vert_24" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

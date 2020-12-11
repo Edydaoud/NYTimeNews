@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bottomSheet"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    android:focusable="false"
+    app:behavior_hideable="true"
+    app:behavior_peekHeight="0dp"
+    app:layout_behavior="com.google.android.material.bottomsheet.BottomSheetBehavior">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:elevation="32dp"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/appCompatTextView"
+            style="@style/TextAppearance.AppCompat.Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/margin_16"
+            android:text="@string/main_bottomsheet_article_title"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:divider="?attr/colorControlNormal"
+            android:orientation="vertical"
+            android:padding="@dimen/margin_16"
+            android:showDividers="middle"
+            app:layout_constraintTop_toBottomOf="@+id/appCompatTextView">
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/oneDayTv"
+                style="@style/TextAppearance.AppCompat.Button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="?android:attr/selectableItemBackground"
+                android:gravity="center_vertical"
+                android:minHeight="@dimen/dimen_48dp"
+                android:text="@string/one_day"
+                tools:layout_editor_absoluteX="-16dp" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/sevenDaysTv"
+                style="@style/TextAppearance.AppCompat.Button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="?android:attr/selectableItemBackground"
+                android:gravity="center_vertical"
+                android:minHeight="@dimen/dimen_48dp"
+                android:text="@string/seven_days"
+                app:layout_constraintTop_toBottomOf="@+id/oneDayTv"
+                tools:layout_editor_absoluteX="-16dp" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/thirtyDaysTv"
+                style="@style/TextAppearance.AppCompat.Button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="?android:attr/selectableItemBackground"
+                android:gravity="center_vertical"
+                android:minHeight="@dimen/dimen_48dp"
+                android:text="@string/thirty_days"
+                app:layout_constraintTop_toBottomOf="@+id/sevenDaysTv"
+                tools:layout_editor_absoluteX="-16dp" />
+        </LinearLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

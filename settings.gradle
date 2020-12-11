@@ -1,0 +1,4 @@
+include ':processors'
+include ':annotations'
+include ':app'
+rootProject.name = "NYTimesNewsApp"

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NYTimesNewsApp</string>
+    <string name="app_title">The New York Times</string>
+    <string name="network_error">Unable to access the network</string>
+    <string name="api_error">This request is not available</string>
+    <string name="unknown_error">Unable to proceed with you request, please try again later</string>
+    <string name="text_separator">-</string>
+    <string name="main_bottomsheet_article_title">Show articles for the last</string>
+    <string name="one_day">One Day</string>
+    <string name="seven_days">Seven Days</string>
+    <string name="thirty_days">Thirty Days</string>
+    <string name="period_menu">Period</string>
+</resources>
